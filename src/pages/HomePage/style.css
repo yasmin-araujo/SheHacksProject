@@ -1,0 +1,9 @@
+main.videos{
+    width: 100vw;
+    min-height: 100vh;
+    padding: calc(80px + 50px) 50px 50px;
+    display: grid;
+    gap: 70px;
+    grid-template-columns: repeat(3, 1fr);
+    grid-auto-rows: 250px;
+}

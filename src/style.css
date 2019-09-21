@@ -1,0 +1,16 @@
+:root{
+    --color-1: #bad3cf;
+    --color-2: #3aac99;
+    --color-text-1: #678680;
+    --color-text-2: #011f1a;
+    --color-btn-1: #11d4b7;
+    --color-shadow-1: #50505067;
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    overflow-x: hidden;
+}
