@@ -1,26 +1,24 @@
-div.video-card{
+div.friends-card{
     background-color: rgb(37, 124, 95);
     border-radius: 10px;
     padding: 10px;
     display: flex;
-    align-items: flex-end;
+    flex-direction: column;
+    align-items: flex-start;
     box-shadow: 0 2px 10px 2px var(--color-shadow-1);
     transition: 0.3s;
-    /* background-image: url(./video1.png);   */
 }
 
-div.video-card:hover{
+div.friends-card:hover{
     transform: scale(1.05);
     box-shadow: 0 3px 15px 5px var(--color-shadow-1);
 }
 
-div.video-card > div.info{
-    display: flex;
-    flex-direction: column;
+div.friends-card > div.info{
     width: 100%;
     border-radius: 5px;
     padding: 10px;
+    margin-bottom: 15px;
     background-color: rgba(83, 219, 219, 0.548);
     color: #fff;
-    z-index: 1;
 }

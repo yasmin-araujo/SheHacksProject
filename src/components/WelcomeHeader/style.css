@@ -1,0 +1,23 @@
+.info{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+
+#progressbar {
+    background-color: gainsboro;
+    border-radius: 13px;
+    /* (height of inner div) / 2 + padding */
+    padding: 3px;
+    width: 150px;
+  }
+  
+  #progressbar>div {
+    /* background-color: linear-gradient( #bad3cf, #3aac99); */
+    background-color: aqua;
+    width: 40%;
+    /* Adjust with JavaScript */
+    height: 10px;
+    border-radius: 10px;
+  }

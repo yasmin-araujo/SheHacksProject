@@ -1,0 +1,9 @@
+main.register-page{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(to bottom right, #bad3cf, #3aac99);
+    background-image: url(./background2.png);   
+}

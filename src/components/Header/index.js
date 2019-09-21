@@ -9,24 +9,25 @@ export default function Header(props) {
         return (
             <header>
                 <img src="" alt="Logo"></img>
-                <h3>Yaslhermotto</h3>
+                <h3>T-Rex</h3>
                 <nav>
-                    <Link to="/" >Home</Link>
-                    <Link to="/management" >Gerenciar</Link>
-                    <Link to="/login" >Sair</Link>
+                    <Link to="/home" >Home</Link>
+                    <Link to="/" >Login</Link>
+                    <Link to="/register" >Cadastro</Link>
                 </nav>
             </header>
         );
     }
-
+    
     return (
         <header>
             <img src="" alt="Logo"></img>
-            <h3>Yaslhermotto</h3>
+            <h3>T-Rex</h3>
             <nav>
-                <Link to="/" >Home</Link>
-                <Link to="/login" >Login</Link>
-                <Link to="/cadastro" >Cadastro</Link>
+                <Link to="/home" >Home</Link>
+                <Link to="/tracker" >Trilha</Link>
+                <Link to="/profile" >Perfil</Link>
+                <Link to="/" >Sair</Link>
             </nav>
         </header>
     );
