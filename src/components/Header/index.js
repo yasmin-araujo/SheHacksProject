@@ -1,5 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom'
+import logo from './amigoslogo.png'
 
 import './style.css';
 
@@ -8,7 +9,7 @@ export default function Header(props) {
     {
         return (
             <header>
-                <img src="" alt="Logo"></img>
+                <img src={logo} alt="Logo"></img>
                 <h3>T-Rex</h3>
                 <nav>
                     <Link to="/home" >Home</Link>
@@ -21,8 +22,8 @@ export default function Header(props) {
     
     return (
         <header>
-            <img src="" alt="Logo"></img>
-            <h3>T-Rex</h3>
+            <img src={logo} alt="Logo"></img>
+            <h3>Amigos da Ciência</h3>
             <nav>
                 <Link to="/home" >Home</Link>
                 <Link to="/tracker" >Trilha</Link>

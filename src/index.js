@@ -5,6 +5,7 @@ import HomePage from "./pages/HomePage";
 import LoginPage from "./pages/LoginPage";
 import RegisterPage from "./pages/RegisterPage";
 import TrackerPage from "./pages/TrackerPage";
+import TrackerPlanetPage from "./pages/TrackerPlanetPage";
 import ProfilePage from "./pages/ProfilePage";
 
 import './style.css';
@@ -18,6 +19,7 @@ function App(){
                 <Route path="/register" component={RegisterPage} />
                 <Route path="/tracker" component={TrackerPage} />
                 <Route path="/profile" component={ProfilePage} />
+                <Route path="/tracker_planet" component={TrackerPlanetPage} />
             </Switch>
         </ BrowserRouter>
     );

@@ -5,7 +5,9 @@
     --color-text-2: #011f1a;
     --color-btn-1: #11d4b7;
     --color-shadow-1: #50505067;
+    --color-shadow-2: #fffdfdc4;
     --color-01: #AB3BFF;
+    --color-tr-01: rgba(170, 59, 255, 0.459);
     --color-02: #38ABEB;
     --color-btn-02: rgb(56, 104, 235);
     --color-03: #69FF78;
@@ -21,5 +23,5 @@
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
     overflow-x: hidden;
-    overflow-y: hidden;
+    /* overflow-y: hidden; */
 }

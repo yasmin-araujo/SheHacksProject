@@ -1,5 +1,5 @@
 div.friends-card{
-    background-color: rgb(37, 124, 95);
+    background-color: #d6883f;
     border-radius: 10px;
     padding: 10px;
     display: flex;
@@ -19,6 +19,6 @@ div.friends-card > div.info{
     border-radius: 5px;
     padding: 10px;
     margin-bottom: 15px;
-    background-color: rgba(83, 219, 219, 0.548);
+    background-color: rgba(255, 255, 0, 0.459);
     color: #fff;
 }

@@ -15,7 +15,7 @@
   
   #progressbar>div {
     /* background-color: linear-gradient( #bad3cf, #3aac99); */
-    background-color: aqua;
+    background-color: rgb(255, 238, 0);
     width: 40%;
     /* Adjust with JavaScript */
     height: 10px;

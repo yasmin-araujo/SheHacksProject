@@ -11,6 +11,7 @@ div.frienditem-card{
 
 div.frienditem-card:hover{
     transform: scale(1.05);
+    cursor: pointer;
     /* box-shadow: 0 3px 15px 5px var(--color-shadow-1); */
 }
 
