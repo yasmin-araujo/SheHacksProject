@@ -1,68 +1,17 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Amigos da Ciência
 
-## Available Scripts
+Projeto vencedor em terceiro lugar elaborado para a SheHacks, hackathon só para mulheres que ocorreu na sede do Facebook dia 21/09/19, desenvolvida pela UspCodeLab.
 
-In the project directory, you can run:
+#### Tema: Melhorando a Divulgação Científica Através da Tecnologia
 
-### `npm start`
+A divulagação científica é um significativo tópico que não recebe a devida atenção atualmente. Ela é de suma importância para a atenuação do preocupante distanciamento existente entre a comunidade científica e a população. Mas afinal, o que é divulgação científica? 
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+É assustador o número de pessoas que não sabem responder essa pergunta. Muitas acham que se trata apenas de divulgação de trabalhos e pesquisas, documentos com alta linguagem técnica e por isso inacessíveis para quem é leigo no assunto. Mas se trata de muito mais do que isso.
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+Qualquer explicação sobre ciência para alguém que não seja seu par, ou seja, da mesma área que você, pode ser considerada como divulgação científica, como por exemplo explicar para uma criança o porquê de o céu ser azul ou como um balão de gás hélio consegue voar.
 
-### `npm test`
+Tendo isso em mente e considerando que a fase de aprendizado é o melhor momento para se criar contato com a ciência de forma que este perdure pela vida, o projeto tem como foco as crianças, com o objetivo criar essa aproximação de uma forma lúdica e divertida, esperando que a longo prazo resulte em uma sociedade mais consciente e cientificamente engajada.
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### O Projeto
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+Para acessar o projeto online [clique aqui](https://she-hacks.azurewebsites.net).
